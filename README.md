@@ -1,6 +1,6 @@
 # Parsing
 
-Project with simple parsering algorithms:
+Project with simple parsing algorithms:
 - Unger parser
 
 ## Building
