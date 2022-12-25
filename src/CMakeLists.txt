@@ -1,0 +1,1 @@
+target_sources(parser PRIVATE parser.cpp partition.cpp)
